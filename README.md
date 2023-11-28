@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on [Smarthealth Web](https://github.com/anti009x/smarthealth_client.git)
 
-- 💬 Ask me about **HTML,CSS,JS,Android,C++,C#,Java,Python,PHP**
-
 - 📫 How to reach me **riskisuleman76@gmail.com**
 
 - ⚡ Fun fact **I Think Need Power :)**
