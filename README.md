@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.JS, React Native**
 
-- 👯 I’m looking to collaborate on [AnterIn API [AI ](https://github.com/anti009x/Objek-Classification_TensorFlow)
+- 👯 I’m looking to collaborate on [AnterIn API [AI ]](https://github.com/anti009x/Objek-Classification_TensorFlow)
 
 - 🔭 I’m currently working on [AnterIn Api Web](https://github.com/anti009x/AnterIn-WEB)
 
