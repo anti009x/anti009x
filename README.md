@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="anti009x" /> </p>
 
-- 🔭 I’m currently working on [Smarthealth Mobile](https://github.com/anti009x/SH.git)
+- 🔭 I’m currently working on [AnterIn Mobile](https://github.com/anti009x/AnterIn_Mobile)
 
 - 🌱 I’m currently learning **Laravel, Vue.JS, React Native**
 
-- 👯 I’m looking to collaborate on [Smarthealth API](https://github.com/anti009x/smarthealth_api-main.git)
+- 👯 I’m looking to collaborate on [AnterIn API AI](https://github.com/anti009x/Objek-Classification_TensorFlow)
 
-- 🔭 I’m currently working on [Smarthealth Web](https://github.com/anti009x/smarthealth_client.git)
+- 🔭 I’m currently working on [Anter IN Web](https://github.com/anti009x/AnterIn-WEB)
 
 - 📫 How to reach me **riskisuleman76@gmail.com**
 
