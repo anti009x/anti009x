@@ -1,6 +1,5 @@
 <img border-radius= "100%" align="center" alt="code" width="100%" src="https://64.media.tumblr.com/196e5caf117c379ca8b4138f5061a9f2/tumblr_oz3l83lbxW1vghtqoo2_1280.gif">
-
-<h1 align="center">Hi 👋, I'm Rizky Sulaeman</h1>
+<h1 align="center ">Hi 👋, I'm Rizky Sulaeman</h1>
 <h3 align="center">A Web Developer and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="anti009x" /> </p>
